@@ -1,0 +1,17 @@
+This sample app illustrates how to use Vuforia to augment objects that are cylindrical in shape – in this case a standard soda can. Upon recognition, the app displays a soccer ball that spins around the can properly handling occlusion.
+
+To use this app:
+
+1. Print the target images located at developer.vuforia.com/resources/sample-apps
+
+2. Cut the target along the indicated lines
+
+3. Wrap the target around a typical can of soda
+
+4. Point your device at the wrapped can
+
+5. When the can is recognized the soccer ball is displayed
+
+© 2013 Qualcomm Austria Research Center GmbH. All rights reserved.
+
+Subject to agreements at developer.vuforia.com/legal/EULA
